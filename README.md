@@ -1,5 +1,8 @@
 # Secure Notes App - React Native (Expo)
 
+## Live APK
+[Download APK from Google Drive](https://drive.google.com/file/d/1rDTHQyweTCpZvEV6dVsZiHuCdRK4qZvK/view?usp=drive_link)
+
 Secure note-taking application built with **React Native** and **Expo**, featuring user authentication, protected routes, CRUD operations, search, sorting, and categorization.
 
 ## Features Implemented
